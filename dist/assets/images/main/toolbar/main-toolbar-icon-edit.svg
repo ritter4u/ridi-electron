@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>main-icon-edit</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="main/library/icon/edit/normal" fill="#475161" fill-rule="nonzero">
+            <g id="Group" transform="translate(3.000000, 3.000000)">
+                <path d="M9,16.5 C13.1421356,16.5 16.5,13.1421356 16.5,9 C16.5,4.85786438 13.1421356,1.5 9,1.5 C4.85786438,1.5 1.5,4.85786438 1.5,9 C1.5,13.1421356 4.85786438,16.5 9,16.5 Z M9,18 C4.02943725,18 0,13.9705627 0,9 C0,4.02943725 4.02943725,0 9,0 C13.9705627,0 18,4.02943725 18,9 C18,13.9705627 13.9705627,18 9,18 Z" id="Oval-6"></path>
+                <path d="M7.5,10.4393398 L12.5,5.43933983 L13.5606602,6.5 L8.56066017,11.5 L7.5,12.5606602 L4.43933983,9.5 L5.5,8.43933983 L7.5,10.4393398 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

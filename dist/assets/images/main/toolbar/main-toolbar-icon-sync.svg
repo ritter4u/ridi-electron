@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>main-icon-sync</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="main/library/icon/sync/normal" fill="#475161">
+            <g id="main/library/icon/sync/w" transform="translate(2.000000, 4.000000)">
+                <path d="M14.464,12.3755 L15.536,13.4245 C14.067,14.9245 12.101,15.7505 10,15.7505 C5.727,15.7505 2.25,12.2735 2.25,8.0005 L0,8.0005 L3,5.0005 L6,8.0005 L3.75,8.0005 C3.75,11.4465 6.554,14.2505 10,14.2505 C11.694,14.2505 13.279,13.5845 14.464,12.3755 Z M5.5362,3.625 L4.4642,2.576 C5.9332,1.076 7.8992,0.25 10.0002,0.25 C14.2732,0.25 17.7502,3.727 17.7502,8 L20.0002,8 L17.0002,11 L14.0002,8 L16.2502,8 C16.2502,4.554 13.4462,1.75 10.0002,1.75 C8.3062,1.75 6.7212,2.416 5.5362,3.625 Z" id="Fill-1"></path>
+            </g>
+        </g>
+    </g>
+</svg>

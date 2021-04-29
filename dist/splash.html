@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <title>Ridibooks</title>
+  <style>
+    :root {
+      --lightSteelBlue5: #f7fafc;
+      --splash: url(assets/images/splash.gif);
+    }
+
+    ::-webkit-scrollbar {
+      display: none;
+      background: transparent;
+    }
+
+    html {
+      -webkit-app-region: drag;
+    }
+
+    .Splash__splash {
+      height: 100vh;
+      overflow: hidden;
+      background: var(--splash) no-repeat 50% 50%/120px 83px;
+      background-color: var(--lightSteelBlue5);
+    }
+  </style>
+<link href="splash.css" rel="stylesheet"></head>
+<body>
+<div class="Splash__splash" id="splash"></div>
+<script type="text/javascript" src="splash.js"></script></body>
+</html>

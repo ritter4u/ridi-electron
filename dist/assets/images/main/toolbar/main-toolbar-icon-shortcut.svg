@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Fill 1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="main/library/icon/link/normal" fill="#475161" fill-rule="nonzero">
+            <g id="Group">
+                <path d="M18.5,18.5 L18.5,13 L20,13 L20,18.75 C20,19.4403559 19.4403559,20 18.75,20 L5.25,20 C4.55964406,20 4,19.4403559 4,18.75 L4,5.25 C4,4.55964406 4.55964406,4 5.25,4 L11,4 L11,5.5 L5.5,5.5 L5.5,18.5 L18.5,18.5 Z M17.6066017,5.5 L14.25,5.5 C13.8357864,5.5 13.5,5.16421356 13.5,4.75 C13.5,4.33578644 13.8357864,4 14.25,4 L19.25,4 C19.6642136,4 20,4.33578644 20,4.75 L20,9.85 C20,10.2642136 19.6642136,10.6 19.25,10.6 C18.8357864,10.6 18.5,10.2642136 18.5,9.85 L18.5,6.72792206 L10.5909903,14.6369318 C10.298097,14.929825 9.8232233,14.929825 9.53033009,14.6369318 C9.23743687,14.3440386 9.23743687,13.8691649 9.53033009,13.5762716 L17.6066017,5.5 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

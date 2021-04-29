@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>reader/btn/page/sepia/normal</title>
+    <desc>Created with Sketch.</desc>
+    <g id="1_Toolbars" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="viewer-coachmark" transform="translate(-1185.000000, -340.000000)">
+            <g id="reader/btn/page/sepia/normal" transform="translate(1185.000000, 340.000000)">
+                <g id="btn/page/normal" stroke="#FFFFFF">
+                    <circle id="Oval-3" cx="20" cy="20" r="19.5"></circle>
+                </g>
+                <g id="reader/toolbar/icon/back/normal" transform="translate(20.000000, 20.000000) scale(-1, 1) translate(-20.000000, -20.000000) translate(12.000000, 12.000000)" fill="#FFFFFF">
+                    <g id="btn/back" transform="translate(0.791667, 0.791667)">
+                        <path d="M2.01213203,6.97903679 L6.67903679,2.31213203 C6.79619408,2.19497475 6.98614357,2.19497475 7.10330086,2.31213203 L7.52756493,2.7363961 C7.64472222,2.85355339 7.64472222,3.04350288 7.52756493,3.16066017 L4.08805729,6.59926407 L12.6,6.6 C12.7656854,6.6 12.9,6.73431458 12.9,6.9 L12.9,7.5 C12.9,7.66568542 12.7656854,7.8 12.6,7.8 L4.08805729,7.79926407 L7.52756493,11.2390368 C7.62798546,11.3394573 7.64233125,11.4933578 7.5706023,11.6090584 L7.52756493,11.6633009 L7.10330086,12.0875649 C6.98614357,12.2047222 6.79619408,12.2047222 6.67903679,12.0875649 L6.67903679,12.0875649 L2.01213203,7.42066017 C1.96192177,7.37044991 1.93323019,7.30686964 1.92605729,7.24137938 L1.92605729,7.15831758 C1.93323019,7.09282732 1.96192177,7.02924706 2.01213203,6.97903679 Z" id="2px"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

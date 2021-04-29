@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4px" height="290px"
+     viewBox="0 0  4 290" preserveAspectRatio="xMidYMid meet">
+  <rect id="svgEditorBackground" x="0" y="0" width="4" height="288" style="fill: transparent; stroke: none;"/>
+  <defs id="svgEditorDefs">
+    <linearGradient gradientUnits="objectBoundingBox" id="lgrd2-black-white" spreadMethod="pad" x1="100%" x2="100%"
+                    y1="100%" y2="91%" gradientTransform="">
+      <stop offset="1%" stop-color="rgba(0, 0, 0, 0.03)"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" style="fill:url(#lgrd2-black-white);" id="e1_rectangle" width="4"
+        height="208" ry="0" rx="0"/>
+  <rect x="0" y="208" style="fill:rgba(209, 213, 217, 0.6);" id="e2_rectangle" width="4"
+          height="1" ry="0" rx="0"/>
+</svg>

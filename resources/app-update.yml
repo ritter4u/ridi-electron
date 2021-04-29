@@ -1,0 +1,7 @@
+provider: s3
+region: ap-northeast-2
+bucket: viewer-ota.ridicdn.net
+path: pc_electron
+updaterCacheDirName: ridibooks-desktop-updater
+publisherName:
+  - Ridi Corporation

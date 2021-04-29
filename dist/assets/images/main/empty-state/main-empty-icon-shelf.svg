@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>library-icon-empty-shelf</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/h48/shelf" fill-rule="nonzero">
+            <g id="icon/book_h:48">
+                <g id="Group-2" transform="translate(33.000000, 11.000000)">
+                    <rect id="Rectangle-2" stroke="#D1D5D9" stroke-width="3" x="1.5" y="1.5" width="8" height="27" rx="2"></rect>
+                    <rect id="Rectangle" fill="#D1D5D9" x="0" y="6" width="11" height="3"></rect>
+                </g>
+                <g id="Group" transform="translate(4.000000, 7.000000)">
+                    <rect id="Rectangle-2" stroke="#D1D5D9" stroke-width="3" x="1.5" y="1.5" width="8" height="31" rx="2"></rect>
+                    <rect id="Rectangle" fill="#D1D5D9" x="0" y="25" width="11" height="3"></rect>
+                    <circle id="Oval-10" fill="#D1D5D9" cx="5.5" cy="6.5" r="1.5"></circle>
+                </g>
+                <rect id="Rectangle-2" stroke="#D1D5D9" stroke-width="3" x="20" y="15.5" width="8" height="24" rx="2"></rect>
+                <rect id="Rectangle-22" fill="#D1D5D9" x="0" y="38" width="48" height="3" rx="1.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

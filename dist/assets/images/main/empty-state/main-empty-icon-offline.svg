@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>library-icon-empty-offline</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/h48/error">
+            <g id="icon/book_h:48"></g>
+            <g id="Group" transform="translate(3.000000, 2.500000)" fill-rule="nonzero">
+                <circle id="Oval-4" stroke="#D1D5D9" stroke-width="4" cx="21" cy="21.5" r="19"></circle>
+                <path d="M20.0338887,11 L21.9661113,11 C22.518396,11 22.9661113,11.4477153 22.9661113,12 C22.9661113,12.0111073 22.9659262,12.0222137 22.9655562,12.0333148 L22.5322228,25.0333148 C22.5142556,25.572332 22.0720945,26 21.5327779,26 L20.4672221,26 C19.9279055,26 19.4857444,25.572332 19.4677772,25.0333148 L19.0344438,12.0333148 C19.0160446,11.4813366 19.4485957,11.0189544 20.0005739,11.0005551 C20.011675,11.0001851 20.0227815,11 20.0338887,11 Z" id="Rectangle-2" fill="#D1D5D9"></path>
+                <circle id="Oval" fill="#D1D5D9" cx="21" cy="30" r="2"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
